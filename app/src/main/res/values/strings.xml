@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- main app title-->
+    <string name="portfolio_title">MY PORTFOLIO APPS</string>
+
+    <!-- main app buttons-->
+    <string name="spotify_button_text">SPOTIFY STREAMER</string>
+    <string name="super_duo_scores_button_text">SCORES APP</string>
+    <string name="super_duo_scores_library_text">LIBRARY APP</string>
+    <string name="build_it_bigger_button_text">BUILD IT BIGGER</string>
+    <string name="xyz_reader_button_text">XYZ READER</string>
+    <string name="capstone_button_text">CAPSTONE</string>
+
+    <!-- COLOR -->
+    <color name="button_default">#F08C35</color>
+    <color name="button_pressed">#D87E30</color>
+    <color name="button_activated">#F08C35</color>
+
+    <!-- MESSAGES -->
+    <string name="button_click_message">This button will launch my %s app!</string>
+
+</resources>
