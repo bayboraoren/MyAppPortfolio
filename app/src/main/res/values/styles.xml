@@ -7,15 +7,16 @@
 
     <!-- Main App Button Style-->
     <style name="MainAppButton">
-        <item name="android:width">192dp</item>
-        <item name="android:textSize">12sp</item>
+        <item name="android:width">@dimen/button_width</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:background">@drawable/button_selector</item>
         <!-- Gap between button -->
-        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_marginTop">@dimen/button_gap</item>
         <!-- Button On Click-->
         <item name="android:onClick">buttonOnClick</item>
     </style>
+
 
 </resources>
